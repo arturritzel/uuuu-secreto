@@ -1,0 +1,1 @@
+esse foi o primeiro codigo que eu fiz pra tentar tocar uma música com um micro controlador kkkkkkkkkkkk eu nem sabia timer e o código dentro do while ta horroroso. mas funcionou! e na época eu fiquei muito feliz por causa disso
